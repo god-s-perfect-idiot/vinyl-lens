@@ -1,8 +1,10 @@
 # vinyl-lens
+
 A metro UI themed Song review app
 
-## Development: 
+## Development:
+
 - NodeJS
-- SvelteJS
+- VueJs
 
 ## Design
